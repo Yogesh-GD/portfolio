@@ -14,7 +14,7 @@ function page() {
        transition={{ duration: 1.5, delay: 0.5 }}
       >
         <h2 className='selection:text-[#ADABF4] selection:bg-[#FFFFFF] text-[#ADABF4]  my-5 text-3xl'>Contact</h2>
-        <p  className='selection:bg-[#ADABF4] selection:text-[#FFFFFF] text-[#858484]'>I’d love to hear from you! Whether you have a project in mind, need some advice, or just want to say hello, feel free to get in touch. You can reach me via email at <a className=' hover:text-[white] hover:underline' href="mailto:ashishjangir394@gmail.com">ashishjangir394@gmail.com</a> or connect with me on <a className=' hover:text-[white] hover:underline' href="https://www.linkedin.com/in/ashish-jangir-6a72532a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FontAwesomeIcon className=' w-5 h-5 text-[#fff]' icon={faLinkedinIn} /> LinkedIn</a> . Let’s build something great together!</p>
+        <p  className='selection:bg-[#ADABF4] selection:text-[#FFFFFF] text-[#858484]'>I&rsquo;d love to hear from you! Whether you have a project in mind, need some advice, or just want to say hello, feel free to get in touch. You can reach me via email at <a className=' hover:text-[white] hover:underline' href="mailto:ashishjangir394@gmail.com">ashishjangir394@gmail.com</a> or connect with me on <a className=' hover:text-[white] hover:underline' href="https://www.linkedin.com/in/ashish-jangir-6a72532a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FontAwesomeIcon className=' w-5 h-5 text-[#fff]' icon={faLinkedinIn} /> LinkedIn</a> . Let’s build something great together!</p>
 
 
           <ul className=' *:text-white *:my-1 my-10 *:selection:bg-[#fff]  *:selection:text-[#ADABF4]' >

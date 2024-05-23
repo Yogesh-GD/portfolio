@@ -18,7 +18,7 @@ export default function Home() {
 
 
         >
-          <h1 className=' selection:bg-[#FFFFFF] selection:text-[#ADABF4]   mb-10  text-5xl sm:text-6xl font-semibold text-[#fff]' >Hey I'm <motion.span className='selection:bg-[#ADABF4] selection:text-[#FFFFFF]  font-bold text-[#ADABF4]'
+          <h1 className=' selection:bg-[#FFFFFF] selection:text-[#ADABF4]   mb-10  text-5xl sm:text-6xl font-semibold text-[#fff]' >Hey I&rsquo;m <motion.span className='selection:bg-[#ADABF4] selection:text-[#FFFFFF]  font-bold text-[#ADABF4]'
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5, duration: 0.8 }}
